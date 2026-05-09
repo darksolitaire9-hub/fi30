@@ -2,7 +2,7 @@
 
 An illustrated 30-day guide to time series forecasting using the nixtlaverse Python toolkit.
 
-Open [forecast_in_30_fixed.html](/forecast_in_30.html) in any browser — no server needed.
+Open [forecast_in_30.html](./forecast_in_30.html) in any browser — no server needed.
 
 ## Attribution
 
