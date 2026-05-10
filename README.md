@@ -4,7 +4,7 @@ An illustrated 30-day guide to time series forecasting using the nixtlaverse
 Python toolkit — designed to be beginner-friendly and accessible to non-native 
 English speakers.
 
-Open [forecast_in_30.html](./forecast_in_30.html) in any browser — no server needed.
+Open [forecast_in_30.html](https://darksolitaire9-hub.github.io/fi30/forecast_in_30.html) in any browser — no server needed.
 
 ## Attribution
 
